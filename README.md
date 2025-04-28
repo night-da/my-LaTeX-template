@@ -1,16 +1,10 @@
 # my-LaTeX-template
 
-本人原创的 LaTeX 模板，适用于课程论文
+我原创的 LaTeX 模板，适用于课程论文
 
 **编译环境：** Visual Studio Code
 
 ![fig-1](figures/fig-1.png)
-
-***
-
-**参考资料：**
-
-- Texlive 安装：[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)
 
 ***
 
@@ -138,3 +132,9 @@
     }
 }
 ```
+
+***
+
+**参考资料：**
+
+- Texlive 安装：[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)
